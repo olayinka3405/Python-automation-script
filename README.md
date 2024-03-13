@@ -1,2 +1,2 @@
 # Python-automation-script
-Login Functionality Automation
+Login Functionality
